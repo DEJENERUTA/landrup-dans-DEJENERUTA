@@ -70,6 +70,8 @@ const Search = () => {
   ```
 # Deployment
 Vercel er en platform til at implementere de hurtigste React-webstites. Du kan implementere dit websted med nul konfiguration til den bedste frontend-infrastruktur.
+<img width="1114" alt="dans-app" src="https://user-images.githubusercontent.com/45858936/194781316-f7fef82b-7fe4-4567-b2e2-edc8d8c66ea4.png">
+
 
 # Tech-Stack perspektivering:
 Dette projekt kan bygges alternativt med Vue,js eller Next.js. Jeg har som bekendt valgt React.js på grund af forskellige årsager.
